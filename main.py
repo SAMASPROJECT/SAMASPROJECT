@@ -5,6 +5,8 @@ from utils.file_handler import save_to_csv, load_from_csv
 from utils.stats import average_moisture, max_temperature
 from utils.charts import plot_moisture
 
+print("Login feature by contributor")
+
 def main():
     while True:
         print("\n--- SAMAS MENU ---")
